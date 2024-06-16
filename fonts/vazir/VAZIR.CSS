@@ -1,0 +1,42 @@
+@font-face{
+    font-family: vazir;
+    font-weight:normal;
+    src: url("./Vazir-Regular.woff2"),
+         url("./Vazir-Regular.woff"),
+         url("./Vazir-Regular.ttf");
+}
+@font-face{
+    font-family: vazir;
+    font-weight:bold;
+    src: url("./Vazir-Bold.woff2"),
+         url("./Vazir-Bold.woff"),
+         url("./Vazir-Bold.ttf");
+}
+@font-face{
+    font-family: vazir;
+    font-weight:100;
+    src: url("./Vazir-Thin.woff2"), 
+          url("./Vazir-Thin.woff"),
+          url("./Vazir-Thin.ttf");
+}
+@font-face{
+    font-family: vazir;
+    font-weight:300;
+    src: url("./Vazir-Light.woff2"),
+         url("./Vazir-Light.woff"),
+         url("./Vazir-Light.ttf");
+}
+@font-face{
+    font-family: vazir;
+    font-weight:500;
+    src: url("./Vazir-Medium.woff2"),
+         url("./Vazir-Medium.woff"),
+         url("./Vazir-Medium.ttf");
+}
+@font-face{
+    font-family: vazir;
+    font-weight:900;
+    src: url("./Vazir-Black.woff2"),
+         url("./Vazir-Black.woff"),
+         url("./Vazir-Bold.ttf");
+}
